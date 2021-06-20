@@ -1,5 +1,6 @@
-# rockpapperscissors
-Repo for Rock Papper Scissors web game code 
+# Rock Paper Scissors Game
 
-Tested and deploy at aws amplify:
+Simple RPS Game made with Vanilla JS
+
+Tested and deployed at aws amplify:
 https://master.d3h85y30mqjdxi.amplifyapp.com
